@@ -1,5 +1,4 @@
 # Recommendation-System-Using-Soil-And-Location-Data
-🌾Recommendation-System-Using-Soil-And-Location-Data 
 
 An AI-powered web platform built with **Django** to recommend the best crops for farmers based on **soil, weather, and location data**.  
 Designed to support sustainable farming and maximize yield efficiency.  
