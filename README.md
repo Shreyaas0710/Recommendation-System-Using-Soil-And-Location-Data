@@ -5,8 +5,7 @@ Designed to support sustainable farming and maximize yield efficiency.
 
 ---
 
-<details>
-<summary>📖 Abstract</summary>
+## 📖 Abstract  
 
 Agriculture remains the backbone of India’s economy, yet many farmers face low yields and financial instability due to uninformed crop selection.  
 This project introduces a **Smart Crop Recommendation System** that uses **soil composition, geolocation, and climatic conditions** to generate tailored crop suggestions.  
@@ -14,12 +13,9 @@ This project introduces a **Smart Crop Recommendation System** that uses **soil 
 Built with **Django (Python)** and **MySQL**, the platform provides an intuitive web interface with **General** and **Advanced** modes for farmers.  
 Machine learning models trained on agricultural datasets achieve **90%+ accuracy**, enabling **data-driven and sustainable decisions**.  
 
-</details>
-
 ---
 
-<details>
-<summary>✨ Features</summary>
+## ✨ Features  
 
 - Soil-based & location-specific crop recommendations.  
 - **General Mode**: basic suggestions using soil & district-level data.  
@@ -30,20 +26,17 @@ Machine learning models trained on agricultural datasets achieve **90%+ accuracy
 - Export reports and visualizations.  
 - Responsive UI (Bootstrap/Tailwind CSS).  
 
-</details>
-
 ---
 
-<details>
-<summary>🗄️ Database Design</summary>
+## 🗄️ Database Design  
 
-### ER Observations
+### ER Observations  
 - **Crop Table** → crop metadata (name, type, yield, requirements).  
 - **Soil Data Table** → pH, NPK, texture, moisture.  
 - **User Table** → farmer details, region, mode used.  
 - **Recommendation Table** → generated crop suggestions, yield predictions.  
 
-### Schema Example
+### Schema Example  
 
 **Crop Table**  
 - crop_id (PK)  
@@ -67,12 +60,9 @@ Machine learning models trained on agricultural datasets achieve **90%+ accuracy
 - predicted_yield  
 - date_generated  
 
-</details>
-
 ---
 
-<details>
-<summary>🖥️ System Workflow</summary>
+## 🖥️ System Workflow  
 
 1. User enters **soil & location data**.  
 2. System fetches **climate info via APIs**.  
@@ -80,17 +70,10 @@ Machine learning models trained on agricultural datasets achieve **90%+ accuracy
 4. Recommended crops displayed with **graphs & yield predictions**.  
 5. Users can **filter results** and **export reports**.  
 
-</details>
-
 ---
 
-<details>
-<summary>📊 Visualization</summary>
+## 📊 Visualization  
 
 - **Chart.js** → quick, responsive charts.  
 - **Plotly** → interactive 2D/3D visualizations.  
 - Yield comparison graphs between **traditional and AI-based methods**.  
-
-</details>
-
-
