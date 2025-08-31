@@ -93,17 +93,4 @@ Machine learning models trained on agricultural datasets achieve **90%+ accuracy
 
 </details>
 
----
 
-<details>
-<summary>📸 Screenshots</summary>
-
-- **Home Page** → project dashboard.  
-- **General Mode** → soil + district-level crop suggestions.  
-- **Advanced Mode** → detailed crop analytics with filters.  
-- **Visualization Dashboard** → bar/line/pie charts of recommendations.  
-
-👉 Insert your screenshots in `/screenshots/` and link them like:  
-```markdown
-![Home Page](https://drive.google.com/file/d/1nrdex37czpSnWqTNflu9bbZpe0AuG4PY/view?usp=drive_link)  
-![Dashboard](https://drive.google.com/file/d/1RFO7rQr2VKG_8RJj_Ox-V8ApDfGKcHAB/view?usp=drive_link)
