@@ -105,5 +105,5 @@ Machine learning models trained on agricultural datasets achieve **90%+ accuracy
 
 👉 Insert your screenshots in `/screenshots/` and link them like:  
 ```markdown
-![Home Page]([screenshots/home.png](https://drive.google.com/file/d/1nrdex37czpSnWqTNflu9bbZpe0AuG4PY/view?usp=drive_link))  
-![Dashboard]([screenshots/dashboard.png](https://drive.google.com/file/d/1RFO7rQr2VKG_8RJj_Ox-V8ApDfGKcHAB/view?usp=drive_link))  
+![Home Page](https://drive.google.com/file/d/1nrdex37czpSnWqTNflu9bbZpe0AuG4PY/view?usp=drive_link)  
+![Dashboard](https://drive.google.com/file/d/1RFO7rQr2VKG_8RJj_Ox-V8ApDfGKcHAB/view?usp=drive_link)
